@@ -6,16 +6,16 @@ Google Drive Link : https://drive.google.com/file/d/1pJS6erT9C7fgdE76bR2Dp6LIw2G
 Dataset consists of 5 classes, 280 images each
 
 # KNN
-Obtained Accuracy of 69.4%
+Obtained validation Accuracy of 69.4%
 
 # Logistic Regression
-Obtained Accuracy of 82.8%
+Obtained validation Accuracy of 82.8%
 
 # Naive Bayes
-Obtained Accuracy of 49.4%
+Obtained validation Accuracy of 49.4%
 
 # Support Vector Machines
-Obtained Accuracy of 84.8%
+Obtained validation Accuracy of 84.8%
 
 # Convolution Neural Networks
-Obtained Accuracy of 83.4%
+Obtained validation Accuracy of 83.4%
